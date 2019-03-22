@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCR Sample</string>
+    <string name="error_prompt">Detector dependencies are not yet available</string>
+    <string name="ocr_reading_error">OCR Reading Error</string>
+</resources>
