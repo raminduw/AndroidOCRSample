@@ -15,4 +15,4 @@
 - [ ] Configuration change
 
 
-### Other comments(Refrence link or related tasks)
+### Other comments(Reference link or related tasks)
